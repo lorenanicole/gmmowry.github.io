@@ -1,0 +1,4 @@
+CommitMsg
+Added blog template
+
+Copied the blog-template.md from the Phase 0 Repo to my new repo blog template. 
