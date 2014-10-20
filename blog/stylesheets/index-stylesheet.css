@@ -38,3 +38,29 @@
 	width:125px;
 	vertical-align: top;
 }
+
+#intro {
+	margin: 25px 25px 25px 25px;
+	padding: 10px;
+	background-color:  #708090;
+}
+
+#title {
+	font-size:45px;
+	position:static;
+	display:block;
+	top:25px;
+}
+#personalintro {
+	width:400px;
+	display:inline-block;
+	float:left;
+	clear:left;
+}
+
+#headshot {
+	height:489px;
+	width:582px;
+	float:left;
+	display: inline-block;
+}
