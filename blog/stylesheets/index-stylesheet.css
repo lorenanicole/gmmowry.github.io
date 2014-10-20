@@ -1,12 +1,7 @@
-#bison {
-	position: fixed;
-	bottom: 0px;
-	right: 0px;
-	left: 0px;
-	top: 0px;
-	width: 100%;
-	height: 100%;
+body {
+	background-color: #708090
 }
+
 * {
 	font-family: Helvetica, sans-serif
 	color: white;
@@ -63,4 +58,9 @@
 	width:582px;
 	float:left;
 	display: inline-block;
+}
+.smlogo {
+	width: 75px;
+	height:75px;
+
 }
